@@ -1,0 +1,44 @@
+{
+"sales_data": [
+{
+"ID": 1,
+"Product": "A",
+"Category": "Electronics",
+"Sales": 120,
+"Cost": 80,
+"Profit": 40
+},
+{
+"ID": 2,
+"Product": "B",
+"Category": "Clothing",
+"Sales": 150,
+"Cost": 90,
+"Profit": 60
+},
+{
+"ID": 3,
+"Product": "C",
+"Category": "Electronics",
+"Sales": 80,
+"Cost": 50,
+"Profit": 30
+},
+{
+"ID": 4,
+"Product": "D",
+"Category": "Clothing",
+"Sales": 200,
+"Cost": 120,
+"Profit": 80
+},
+{
+"ID": 5,
+"Product": "E",
+"Category": "Electronics",
+"Sales": 90,
+"Cost": 60,
+"Profit": 30
+}
+]
+}
